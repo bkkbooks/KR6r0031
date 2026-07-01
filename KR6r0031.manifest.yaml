@@ -1,0 +1,285 @@
+canonical_identifier: bkk:krp/KR6r0031/v1
+canonical_location: https://kanripo.org/bkk/KR6r0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿育王傳
+  identifiers:
+    alt_id:
+    - T50n2042
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2042.xml
+    old_id: T50n2042
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 聖
+  label: 聖
+  source_xml_id: wit6
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0031_000.yaml, hash: 'sha256:291d9648b8d66d2dde40b9ad2ba63614fc70af1b03e0daf7314c29074f5674b7'}
+  - {seq: 1, filename: KR6r0031_001.yaml, hash: 'sha256:54abfca55c979060fa3e9d04ab5ff394503300f6b2f92c35a321425f0c3b7fe0'}
+  - {seq: 2, filename: KR6r0031_002.yaml, hash: 'sha256:2cbc468a4df62bd9a17abb669645f8dabe84d0ac774a8dbd765091cbe74c972f'}
+  - {seq: 3, filename: KR6r0031_003.yaml, hash: 'sha256:1a317fb2943c17c4b10527bbfebf663fef5dfd12a96110f6322bdd4d38e28c3e'}
+  - {seq: 4, filename: KR6r0031_004.yaml, hash: 'sha256:04e7114ccee1bfc8848df10b3c3a5a91dc24fe501907d965f4fd3e88b9d40b55'}
+  - {seq: 5, filename: KR6r0031_005.yaml, hash: 'sha256:d844c02d35d0f7110775a1ae803c7092f9e316aa2c1a51701afdefce79125110'}
+  - {seq: 6, filename: KR6r0031_006.yaml, hash: 'sha256:9a32df6f47c73ca44d22f95c9b45254d7c008ba3fc2875ce00ba561da9ea7818'}
+  - {seq: 7, filename: KR6r0031_007.yaml, hash: 'sha256:87bcab17e5f8a9e18259f09b15b82b005992d0f810f6a24235f707a45521ceac'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0031_001.markers.yaml, hash: 'sha256:0a6e1f16f0ee3c06853b4466a7689fe7b54935f2b5f59b08b3d06f42664dbbc0'}
+  - {seq: 2, role: markers, filename: assets/KR6r0031_002.markers.yaml, hash: 'sha256:aa2f32ea1da459c122c40206099aaa52fd8c859df0f49435e377eb7486b8b54a'}
+  - {seq: 3, role: markers, filename: assets/KR6r0031_003.markers.yaml, hash: 'sha256:f9f66b30290f19f758a89c6e009d4c364516db70cffa22315e3592efba9e991f'}
+  - {seq: 4, role: markers, filename: assets/KR6r0031_004.markers.yaml, hash: 'sha256:f3373dbab41ae32f84649d6f16f76a193b0202328c609c55289924ad09c4e521'}
+  - {seq: 5, role: markers, filename: assets/KR6r0031_005.markers.yaml, hash: 'sha256:d41a68531292589e4da103f7894d092d7f196e8780dc79eaa1e4467943bf49ea'}
+  - {seq: 6, role: markers, filename: assets/KR6r0031_006.markers.yaml, hash: 'sha256:e065b939b4bfaf1b2a78cba32489aa6b62966e6da9ccbac097924b1f51286f4b'}
+  - {seq: 7, role: markers, filename: assets/KR6r0031_007.markers.yaml, hash: 'sha256:7b3dbbb4a4a7b6e34804f1427d228c3076788aa0e0b5a5642ba2dbafb9efa748'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5983
+  label: 阿育王傳卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 本施土緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-2
+    span:
+    - body
+    - 4525
+    - 4525
+  label: 阿育王本緣傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-3
+    span:
+    - body
+    - 4525
+    - 4525
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0031_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6035
+  label: 阿育王傳卷第二本緣之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0031_T_002-mulu-1
+    span:
+    - body
+    - 3592
+    - 3592
+  label: 阿恕伽王第本緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5976
+  label: 阿育王傳卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 駒那羅本緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-2
+    span:
+    - body
+    - 3364
+    - 3364
+  label: 半菴羅果因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-3
+    span:
+    - body
+    - 5004
+    - 5004
+  label: 優波毱多因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-4
+    span:
+    - body
+    - 5004
+    - 5004
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6320
+  label: 阿育王傳卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-2
+    span:
+    - body
+    - 2625
+    - 2625
+  label: 摩訶迦葉涅槃因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-3
+    span:
+    - body
+    - 5732
+    - 5732
+  label: 摩田提因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7278
+  label: 阿育王傳卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 商那和修因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-2
+    span:
+    - body
+    - 6235
+    - 6235
+  label: 優波毱多因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-3
+    span:
+    - body
+    - 6235
+    - 6235
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0031_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6718
+  label: 阿育王傳卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0031_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5990
+  label: 阿育王傳卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0031_T_007-mulu-1
+    span:
+    - body
+    - 1892
+    - 1892
+  label: 阿育王現報因緣
+  type: mulu
+  level: 1
+hash: sha256:2f85d53b82b156a25c571a12d42742ece03e6abf8dd386b53c921dc41279eb64
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

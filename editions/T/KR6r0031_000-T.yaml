@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿育王傳
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2042.xml
+    old_id: T50n2042
+hash: sha256:291d9648b8d66d2dde40b9ad2ba63614fc70af1b03e0daf7314c29074f5674b7

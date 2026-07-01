@@ -1,0 +1,260 @@
+canonical_identifier: bkk:krp/KR6r0031/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0031/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿育王傳
+  identifiers:
+    krp: KR6r0031
+    cbeta: T50n2042
+    cbeta_old_id: T50n2042
+    authorityid: CA0000076
+    json_key: T2042
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2042.xml
+    old_id: T50n2042
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0031_000-T.yaml, hash: 'sha256:291d9648b8d66d2dde40b9ad2ba63614fc70af1b03e0daf7314c29074f5674b7'}
+  - {seq: 1, filename: KR6r0031_001-T.yaml, hash: 'sha256:3d30788af403127c26f6b73ef04d5914b11ebe2a854d111c24226aa8b18ac081'}
+  - {seq: 2, filename: KR6r0031_002-T.yaml, hash: 'sha256:bcc61ea8a64c4a0dffe753fd4c6bef670de56e3f3372a36947af1a6cb9c39c48'}
+  - {seq: 3, filename: KR6r0031_003-T.yaml, hash: 'sha256:d546ab8f6d7e5c65ccae3078b13c610b5c061f3a84c878f216b3ca0e4b36c6e2'}
+  - {seq: 4, filename: KR6r0031_004-T.yaml, hash: 'sha256:206208c4d68ec5e5d640223211366628aacf26710b939b95b99ab668b577052a'}
+  - {seq: 5, filename: KR6r0031_005-T.yaml, hash: 'sha256:e31e4c523874b82abeb74c233d61b0f78b1a7ba6eba2d8031d2ec0ece7633368'}
+  - {seq: 6, filename: KR6r0031_006-T.yaml, hash: 'sha256:e7eedef5fd63feb439fc63677a36fa1bb214ecad322961df2597cd3fa6d0827c'}
+  - {seq: 7, filename: KR6r0031_007-T.yaml, hash: 'sha256:1f1571d9490aa2bb2617a1ecd73539047a5e5b9837f60ffe105e8ac855203937'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0031_000-T.markers.yaml, hash: 'sha256:b48a16867597606b62e9b4d13c9957c065dfd09fbe4c613a4f7f88d13e6b5058'}
+  - {seq: 1, role: markers, filename: assets/KR6r0031_001-T.markers.yaml, hash: 'sha256:44d694278c2d7d2318db1d1e914a47a7b3e709085229b9ff036d448d52726470'}
+  - {seq: 2, role: markers, filename: assets/KR6r0031_002-T.markers.yaml, hash: 'sha256:93dd496b9823c37a1e7ea806ca773357a0716d85a12cd3f869cc346b7ed873b2'}
+  - {seq: 3, role: markers, filename: assets/KR6r0031_003-T.markers.yaml, hash: 'sha256:4a783d98aa2fd0561d09ef951dbb73e1e5212ef561928909c0aa79e0390b5e54'}
+  - {seq: 4, role: markers, filename: assets/KR6r0031_004-T.markers.yaml, hash: 'sha256:ab6c3c70d81cfa826a2a8136400a625fa9db4082659815e51dd115e051c32456'}
+  - {seq: 5, role: markers, filename: assets/KR6r0031_005-T.markers.yaml, hash: 'sha256:5d6fa02b82a1f45922fb4ef79f29e8fa8d78d0bddc34a6c8120d3de430705f3a'}
+  - {seq: 6, role: markers, filename: assets/KR6r0031_006-T.markers.yaml, hash: 'sha256:0961d903ecaec9fd0dc634bbd462107e9ac3d5937b99f8b7b8e1e1369354025c'}
+  - {seq: 7, role: markers, filename: assets/KR6r0031_007-T.markers.yaml, hash: 'sha256:fdb319dd44d2362223ce7b970d01c494b56a0434934526cbb3f1b4d2a8f20141'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5983
+  label: 阿育王傳卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 本施土緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-2
+    span:
+    - body
+    - 4525
+    - 4525
+  label: 阿育王本緣傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0031_T_001-mulu-3
+    span:
+    - body
+    - 4525
+    - 4525
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0031_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6035
+  label: 阿育王傳卷第二本緣之餘
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0031_T_002-mulu-1
+    span:
+    - body
+    - 3592
+    - 3592
+  label: 阿恕伽王第本緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5976
+  label: 阿育王傳卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 駒那羅本緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-2
+    span:
+    - body
+    - 3364
+    - 3364
+  label: 半菴羅果因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-3
+    span:
+    - body
+    - 5004
+    - 5004
+  label: 優波毱多因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0031_T_003-mulu-4
+    span:
+    - body
+    - 5004
+    - 5004
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6320
+  label: 阿育王傳卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-2
+    span:
+    - body
+    - 2625
+    - 2625
+  label: 摩訶迦葉涅槃因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0031_T_004-mulu-3
+    span:
+    - body
+    - 5732
+    - 5732
+  label: 摩田提因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7278
+  label: 阿育王傳卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 商那和修因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-2
+    span:
+    - body
+    - 6235
+    - 6235
+  label: 優波毱多因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0031_T_005-mulu-3
+    span:
+    - body
+    - 6235
+    - 6235
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0031_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6718
+  label: 阿育王傳卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0031_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5990
+  label: 阿育王傳卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0031_T_007-mulu-1
+    span:
+    - body
+    - 1892
+    - 1892
+  label: 阿育王現報因緣
+  type: mulu
+  level: 1
+hash: sha256:3e8e2925fbfb1e11093c3362c5d6eeb98315839806747e05fb36a90a155ef208
